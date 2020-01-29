@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://contactKeeper:contactKeeper@cluster0-cnvko.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "FuckDCMA123456789"
+}
